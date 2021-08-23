@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.sportswholesalesupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.sportswholesalesupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.sportswholesalesupply.com/collections/bundles.atom"/>
+  <title>Sports Wholesale Supply</title>
+  <updated>2017-09-05T11:25:48-04:00</updated>
+  <author>
+    <name>Sports Wholesale Supply</name>
+  </author>
+  <entry>
+    <id>https://www.sportswholesalesupply.com/products/9922638994</id>
+    <published>2017-09-05T11:25:48-04:00</published>
+    <updated>2017-09-05T11:25:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sportswholesalesupply.com/products/oxyleanelite-3bottlebundle"/>
+    <title>Oxy Lean - Premium Weight Loss Fat Burner - 3 Bottle Bundle</title>
+    <s:type>Supplements</s:type>
+    <s:vendor>Sports Wholesale Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1608/8829/products/3-bottles.png?v=1612544427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sports Wholesale Supply<br>
+        <strong>Type: </strong>Supplements<br>
+        <strong>Price: </strong>
+            99.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span style="color: #ff0000;"><b></b></span></h3>
+<h3 style="text-align: left;"><span style="color: #ff0000;"><b>Claim the Best Deal - a 3 Bottle Bundle of OxyLean - Save 45% - for a Total savings of $80 Off Retail with FREE Shipping!</b></span></h3>
+<p><b>FIRST STEP TO A HAPPIER &amp; HEALTHIER LIFESTYLE!</b></p>
+<ul>
+<li><strong>Fat Burning Matrix*</strong></li>
+<li><strong>Appetite Control*</strong></li>
+<li><strong>Metabolism*</strong></li>
+<li><strong>Energy*</strong></li>
+<li><strong>Positive Mood*</strong></li>
+<li><strong><span style="text-decoration: underline;">3 Months Supply</span> - 60 capsules (Per Bottle)</strong></li>
+</ul>
+<ul></ul>
+<h3 style="text-align: left;"><strong>POWERED BY THE SCIENCE OF THERMOGENESIS</strong></h3>
+<p><span>Imagine having the stamina to perform better during your workouts while experiencing the energy and elevated mood that everyone wants.</span></p>
+<p>Oxy Lean is a clinically proven thermogenic formula that helps to enhance metabolism, burn calories and boost energy levels. For best results, we recommend including a healthy diet and exercise routine in your regiment.</p>
+<p>Oxy Lean is no magic pill but it is one of the most advanced weight loss supplement in the market.</p>
+<div class="font_7" style="text-align: center;"><strong>_____________________________________________________</strong></div>
+<div class="font_7" style="text-align: center;">
+<strong>– Increased Focus &amp; Awareness*</strong><br><strong>– Enhanced Energy and Support*</strong><br><strong>– Increased Sense of Well Being*</strong>
+</div>
+<p style="text-align: center;"> <strong>﻿_____________________________________________________</strong></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/4cIwvZMi2xQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/vMQYjVhISac?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
+<div style="text-align: center;"><span style="text-decoration: underline;"><strong><a href="https://www.sportsnutritionsupply.com/collections/oxy-lean/products/oxyleanelite"><span style="text-decoration-style: initial; text-decoration-color: initial;">Click Here To Get A Single Bottle</span> for $39.97!</a></strong></span></div>
+<div style="text-align: center;"><span style="text-decoration: underline;"><strong></strong></span></div>
+<div style="text-align: center;"><span style="text-decoration: underline; color: #ff0000;"><strong></strong></span></div>
+<div style="text-align: center;"><a href="https://www.sportsnutritionsupply.com/collections/oxy-lean/products/oxyleanelite"></a></div><br>
+<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1608/8829/products/OXYLEAN-1B_2_240x240.jpg?v=1574789417" width="240x240" height="240x240" style="float: none;"></div>
+<div style="text-align: center;"><strong><span style="color: #ff0000;"></span></strong></div>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oxy</s:tag>
+    <s:tag>oxy lean elite</s:tag>
+    <s:tag>oxylean</s:tag>
+    <s:tag>oxyleanelite</s:tag>
+    <s:tag>Revenue</s:tag>
+    <s:tag>rr_track_3bottle_oxylean</s:tag>
+    <s:tag>rr_track_oxyshredz</s:tag>
+    <s:tag>test-maxapp_oxygreens</s:tag>
+    <s:variant>
+      <id>https://www.sportswholesalesupply.com/products/9922638994</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.97</s:price>
+      <s:sku>THREE-bottles-OxyLeanElite-3-bottle-bundle</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
